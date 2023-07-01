@@ -22,7 +22,7 @@ list_of_files = [
     "params.yaml",
     "main.py",
     "Dockerfile",
-    "requirements.txt"
+    "requirements.txt",
     "setup.py",
     "research/trails.ipynb"
 ]
